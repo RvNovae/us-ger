@@ -1,7 +1,7 @@
 # us-ger
 My personal keyboard layout
 
-Based on the standard US-Keyboard-Layout.
+Based on the standard US-Keyboard-Layout with extensions for the German language.
 
 - `AltGr + a` = `ä`
 - `AltGr + s` = `ö`
