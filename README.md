@@ -1,5 +1,4 @@
-# us-ger
-My personal keyboard layout
+# US-GER: My personal keyboard layout
 
 Based on the standard US-Keyboard-Layout with extensions for the German language.
 
