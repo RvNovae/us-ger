@@ -6,6 +6,7 @@ Based on the standard US-Keyboard-Layout with extensions for the German language
 - `AltGr + s` = `ö`
 - `AltGr + d` = `ü`
 - `AltGr + f` = `ß`
+- `AltGr + q` = `å`
 
 and all of the uppercase letters when combined with shift. (yes, even ẞ)
 
